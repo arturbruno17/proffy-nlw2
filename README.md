@@ -4,11 +4,11 @@ O Proffy é uma plataforma de ensino para professores e alunos criado pela Rocke
 
 <img src="https://user-images.githubusercontent.com/59144771/91718718-54ccf380-eb6a-11ea-8210-b2f9a285d264.PNG">
 
-<!-- ## Sumário 📑
+## Sumário 📑
 
 - [Tecnologias usadas](#-tecnologias-usadas)
-- [Instalação](#-instalação)
-- [Contribuição](#-) -->
+- [Instalação](#instalação)
+- [Contribuição](#contribuição-)
 
 ## Tecnologias usadas 👨‍💻
 
