@@ -40,7 +40,7 @@ Você também pode ser o professor. Clicando na opção "Dar aulas" e preenchend
 ## Contribuição 💪
 
 1. Para contribuir, basta fazer um fork. 
-(<https://github.com/arturbruno17/next-level-week/fork)>
+(<https://github.com/arturbruno17/proffy-nlw2/fork>)
 
 2. Crie uma branch para sua modificação
 (`git checkout -b feature/fooBar`)
